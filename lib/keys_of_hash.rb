@@ -5,7 +5,7 @@ class Hash
     arguments.each do |ele|
       if ele == self
         arr << self
-    
+    end
   end
   arr
 end
