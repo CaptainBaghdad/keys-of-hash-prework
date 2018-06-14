@@ -6,6 +6,7 @@ class Hash
       arguments.each do |ele|
       if ele == v 
         arr << ele
+      end
       end 
   end
   arr
