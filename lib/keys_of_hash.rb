@@ -7,4 +7,5 @@ class Hash
         arr << self
     
   end
+  arr
 end
