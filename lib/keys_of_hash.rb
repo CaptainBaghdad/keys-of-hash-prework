@@ -9,5 +9,7 @@ class Hash
       end
       end 
   end
-  arr
+ arr 
+end
+
 end
